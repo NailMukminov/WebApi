@@ -1,0 +1,23 @@
+{
+  "access_token": "",
+  "owner_id": 0,
+  "friends_only": false,
+  "from_group": false,
+  "message": "",
+  "attachments": "",
+  "services": "",
+  "signed": false,
+  "publish_date": "",
+  "lat": "",
+  "lng": "",
+  "place_id": "",
+  "post_id": "",
+  "guid": "",
+  "mark_as_ads": false,
+  "close_comments": false,
+  "donut_paid_duration": 0,
+  "mute_notifications": false,
+  "copyright": "",
+  "topic_id": "",
+  "v": "5.130"
+}

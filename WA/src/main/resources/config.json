@@ -1,0 +1,12 @@
+{
+  "testingDataFile": "../WA/src/main/resources/PassData.json",
+  "url": "https://vk.com/",
+  "pathToPhoto": "../WA/src/main/resources/image.jpg",
+  "pathToWallPostFile": "../WA/src/main/resources/WallPost.json",
+  "pathToWallEditFile": "../WA/src/main/resources/WallEdit.json",
+  "pathToWallCreateCommentFile": "../WA/src/main/resources/WallCreateComment.json",
+  "pathToWallGetLikesFile": "../WA/src/main/resources/WallGetLikes.json",
+  "pathToWallDeleteFile": "../WA/src/main/resources/WallDelete.json",
+  "pathToPhotosGetUploadServerFile": "../WA/src/main/resources/PhotosGetUploadServer.json",
+  "PathToPhotosSaveFile": "../WA/src/main/resources/PhotosSave.json"
+}

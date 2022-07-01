@@ -1,0 +1,23 @@
+{
+  "access_token": "",
+  "owner_id": 0,
+  "post_id": 0,
+  "friends_only": false,
+  "message": "edit",
+  "attachments": "photo722471590_",
+  "services": "",
+  "signed": false,
+  "publish_date": "",
+  "lat": "",
+  "lng": "",
+  "place_id": "",
+  "mark_as_ads": false,
+  "close_comments": false,
+  "donut_paid_duration": 0,
+  "poster_bkg_id": 0,
+  "poster_bkg_owner_id":  0,
+  "poster_bkg_access_hash": "",
+  "mute_notifications": false,
+  "copyright": "",
+  "v": "5.130"
+}
